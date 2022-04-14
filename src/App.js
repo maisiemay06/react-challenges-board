@@ -1,23 +1,21 @@
-import logo from './logo.svg';
 import './App.css';
+import birthdayReminder from './images/birthdayreminder.png';
+import pages from './pages';
 
 function App() {
   return (
     <div className="App">
       <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
+        <h1 className="page-title">React Practice Projects</h1>
       </header>
+      <main>
+        <div className="card">
+          <a href={pages[0].link} className="project-link" target='_blank'>
+            <img src={pages[0].image} alt={pages[0].title} className="project-preview" />
+          </a>
+          <h3 className="project-title">{pages[0].title}</h3>
+        </div>
+      </main>
     </div>
   );
 }
