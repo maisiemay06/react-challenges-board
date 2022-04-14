@@ -13,79 +13,79 @@ export default [
     },
     {
         id: 3,
-        title: 'Birthday Reminder',
+        title: 'Reviews',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 4,
-        title: 'Birthday Reminder',
+        title: 'Accordion',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 5,
-        title: 'Birthday Reminder',
+        title: 'Menu',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 6,
-        title: 'Birthday Reminder',
+        title: 'Tabs',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 7,
-        title: 'Birthday Reminder',
+        title: 'Slider',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 8,
-        title: 'Birthday Reminder',
+        title: 'Lorem Ipsum',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 9,
-        title: 'Birthday Reminder',
+        title: 'Color Generator',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 10,
-        title: 'Birthday Reminder',
+        title: 'Grocery Bud',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 11,
-        title: 'Birthday Reminder',
+        title: 'Navbar',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 12,
-        title: 'Birthday Reminder',
+        title: 'Sidebar And Modal',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 13,
-        title: 'Birthday Reminder',
+        title: 'Stripe Menu',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 14,
-        title: 'Birthday Reminder',
+        title: 'Cart',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     },
     {
         id: 15,
-        title: 'Birthday Reminder',
+        title: 'Cocktails',
         image: require('./images/birthdayreminder.png'),
         link: 'https://soft-melba-d5d8d3.netlify.app/'
     }
