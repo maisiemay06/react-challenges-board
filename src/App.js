@@ -15,6 +15,12 @@ function App() {
           </a>
           <h3 className="project-title">{pages[0].title}</h3>
         </div>
+        <div className="card">
+          <a href={pages[1].link} className="project-link" target='_blank'>
+            <img src={pages[1].image} alt={pages[1].title} className="project-preview" />
+          </a>
+          <h3 className="project-title">{pages[1].title}</h3>
+        </div>
       </main>
     </div>
   );
